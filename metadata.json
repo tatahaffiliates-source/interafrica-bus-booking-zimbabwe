@@ -1,0 +1,6 @@
+{
+  "name": "InterAfrica Bus Booking Zimbabwe",
+  "description": "Book verified intercity bus tickets across Zimbabwe with live seat selection, onboard snacks, multi-currency USD/ZiG support, and WhatsApp tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
